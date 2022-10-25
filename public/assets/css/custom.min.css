@@ -1,0 +1,10 @@
+
+label.error {
+    color: red;
+    display: block;
+}
+
+input.error,select.error,textarea.error,.select2-selection.error {
+    border: 1px solid red!important;
+    color: red;
+}
